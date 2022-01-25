@@ -30,7 +30,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/u/,
+    link: 'https://angel.co/u/',
     label: 'Angel List',
     icon: faAngellist,
   },
