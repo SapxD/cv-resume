@@ -29,7 +29,7 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
-          <a style={{ marginLeft: 500, marginTop: 0 }} href="#">Download My Resume</a>
+          <a style={{ marginLeft: 500, marginTop: 0 }} href="/#">Download My Resume</a>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
