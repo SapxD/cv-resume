@@ -19,12 +19,12 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p align="justify">Hi, I&apos;m Sachin Sadashiv. I like building things.
-        Accomplished Software Developer with 2 years of experience in development of
-        applications. Excels in every stage of the life cycle of software development,
-        including design creation, coding, debugging, testing and maintenance. Expert
+      <p align="justify">Hi, I&apos;m Sachin Sadashiv. I&apos;m a Cyber Security enthusiast.
+        I like building things. Accomplished Software Developer with 2 years of experience
+        in development of applications. Excels in every stage of the life cycle of software
+        development, including design creation, coding, debugging, testing and maintenance.
         in devising innovative and tailored solutions to assist businesses achieve their
-        goals in avariety of industries.Advanced skills and knowledge of leading
+        Expert goals in avariety of industries.Advanced skills and knowledge of leading
         programming tools with a strong background in mathematics, algorithms, and
         data-processing logic.
       </p>

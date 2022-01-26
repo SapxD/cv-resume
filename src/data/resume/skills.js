@@ -13,19 +13,24 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Postgresql',
+    competency: 3,
+    category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
     title: 'React',
     competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 4,
     category: ['Tools', 'Languages'],
   },
   {
     title: 'Amazon Web Services',
     competency: 3,
-    category: ['Web Development', 'Tools'],
+    category: ['Web Development', 'Tools', 'Cloud', 'CI/CD'],
   },
   {
     title: 'MySQL/SQL',
@@ -40,7 +45,7 @@ const skills = [
   {
     title: 'Git',
     competency: 5,
-    category: ['Tools'],
+    category: ['Tools', 'Cloud', 'CI/CD'],
   },
   {
     title: 'Android Native',
@@ -58,29 +63,34 @@ const skills = [
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
+    title: 'Shell Scripting',
+    competency: 4,
+    category: ['Languages', 'CI/CD'],
+  },
+  {
     title: 'GoLang',
     competency: 5,
-    category: ['languages', 'Web Development'],
+    category: ['Languages', 'Cloud'],
   },
   {
     title: 'Docker',
     competency: 5,
-    category: ['tools'],
+    category: ['Tools', 'Cloud', 'CI/CD'],
   },
   {
-    title: 'kubernetes',
+    title: 'Kubernetes',
     competency: 5,
-    category: ['tools'],
+    category: ['Tools', 'Cloud', 'CI/CD'],
   },
   {
-    title: 'jenkins',
+    title: 'Jenkins',
     competency: 3,
-    category: ['tools'],
+    category: ['Tools', 'Cloud', 'CI/CD'],
   },
   {
-    title: 'maven',
+    title: 'Maven',
     competency: 3,
-    category: ['tools'],
+    category: ['Tools', 'Cloud', 'CI/CD'],
   },
   {
     title: 'Jupyter',
@@ -110,12 +120,27 @@ const skills = [
   {
     title: 'Unix/Linux',
     competency: 5,
-    category: ['tools'],
+    category: ['Tools', 'Pentesting'],
   },
   {
     title: 'C++',
     competency: 4,
     category: ['Languages'],
+  },
+  {
+    title: 'Burp Suite',
+    competency: 3,
+    category: ['Pentesting', 'Tools'],
+  },
+  {
+    title: 'Metasploit',
+    competency: 3,
+    category: ['Pentesting', 'Tools'],
+  },
+  {
+    title: 'Powershell',
+    competency: 3,
+    category: ['Tools', 'Pentesting'],
   },
   {
     title: 'PHP',

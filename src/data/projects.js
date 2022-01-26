@@ -1,56 +1,55 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Alzheimers Assistant',
-    subtitle: 'B.Tech Final Project',
-    image: '/images/projects/cover_photo_07_GkEDac0HEG.png',
-    date: '2020-12-28',
+    title: 'JWT authentication using gRPC interceptors.',
+    subtitle: 'Golang Project',
+    image: '/images/projects/jwt.png',
+    date: '2021-11-15',
     desc:
-      'A smartwatch with fall and location detection, reminders and more, designed to help you or your loved one with Alzheimers!'
-      + 'I decided that I will build a wearable device, a system which can help both patients and their caretakers. The system will carryout '
-      + 'Reminding the patient of carrying out tasks, he/she has to do daily (such as medications, exercise, etc),'
-      + 'Alert the caretakers in case of an emergency of any sort and Monitor where the patient is in the house. ',
+      'A Model that can give us the approx perticular location of water leakage in pipelines. '
+      + 'The gRPC interceptor is used as a middleware to process,'
+      + 'the client and server request and response and to authorise and verify the JWT tokens,',
   },
   {
-    title: 'Pothole Challenge Application',
-    subtitle: 'Finalist Smart India Hackathon 2020',
-    image: '/images/projects/maxresdefault.jpg',
-    date: '2020-08-28',
+    title: 'Detection of Road humps and Potholes using IoT',
+    subtitle: 'B.Tech Final Project',
+    image: '/images/projects/pothole-detection.png',
+    date: '2020-7-28',
     desc:
-      'Built for a Ministry Of Goa as a part of SIH 2020. '
-      + 'Its an android application that will help users find and report a pothole, '
-      + 'near them so that can be repaired asap.'
+      'A device to detect Road humps and potholes.'
+      + 'Implementing along with automobiles for improving transport and safety.'
+      + 'Surveying the roads for potholes and humps and have them uploaded to the map ,'
+      + 'Alert the driver of irregular humps and potholes.',
+  },
+  {
+    title: 'Data Communication Model - Computer Graphics',
+    subtitle: 'B.Tech project',
+    image: '/images/projects/data-communication.jpg',
+    date: '2019-08-28',
+    desc:
+      'Built a Computer Graphics model illustrating Data Communication. '
+      + 'It illustrates concept of data communication over the internet'
+      + 'Built Using OpenGL API and GLUT libraries.'
       + 'It covers the gaps between public, goverment and contractor.',
   },
   {
-    title: 'Smart Solutions For Hotels',
-    subtitle: 'Won 5th Place on BookingJinni Hacks',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/AssaAbloy.jpg',
-    date: '2020-04-28',
-    desc:
-      'With the help of Internet of Things, How a user can book a room in a '
-      + 'hotel and can check in into room without requirment of any physical '
-      + 'room key. And he can easily keep track of all the things.',
-  },
-  {
-    title: 'Predicting Rainfall',
-    subtitle: 'Semifinalist, Chhatra Viswakarma Awards 2020',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/preview-3541510-706758-0-landscape.png',
+    title: 'Placement management system',
+    subtitle: 'B.Tech Project',
+    image: '/images/projects/placement.png',
     date: '2019-12-28',
     desc:
-      'Precipitation is useful information for assessing vital water resources, agriculture, ecosystems and hydrology. '
-      + 'Data-driven model predictions using deep learning algorithms are promising for these purposes.',
+      'A web technology based project for placement and human resource department. '
+      + 'Involves managing, accessing and notifying users of upcoming events.',
   },
   {
-    title: 'Solution for Water Leakage in Pipelines',
-    subtitle: 'Top 20 in Smart Bhopal Hackathon 2019',
-    image: '/images/projects/Implementation-of-the-System.png',
-    date: '2019-11-15',
+    title: 'Hostel Management System',
+    subtitle: 'B.Tech Project',
+    image: '/images/projects/hostel.jpg',
+    date: '2018-04-28',
     desc:
-      'A Model that can give us the approx perticular location of water leakage in pipelines. '
-      + 'That will help goverment save a lot of water from wasting as well as money.',
+      'A Hostel management system using web technologies.'
+      + 'A user friendly web portal students and hostel managers.'
+      + 'includes all the necessary funtions required for a hostel maintainance.',
   },
 ];
 
