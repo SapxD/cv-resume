@@ -6,9 +6,9 @@ const data = [
     image: '/images/projects/jwt.png',
     date: '2021-11-15',
     desc:
-      'A Model that can give us the approx perticular location of water leakage in pipelines. '
-      + 'The gRPC interceptor is used as a middleware to process,'
-      + 'the client and server request and response and to authorise and verify the JWT tokens,',
+      'Implemented JWT based authentication using Golang. '
+      + 'The gRPC interceptor is used as a middleware to process '
+      + 'the client and server request and response to authorise and verify the JWT tokens,',
   },
   {
     title: 'Detection of Road humps and Potholes using IoT',
@@ -16,9 +16,9 @@ const data = [
     image: '/images/projects/pothole-detection.png',
     date: '2020-7-28',
     desc:
-      'A device to detect Road humps and potholes.'
-      + 'Implementing along with automobiles for improving transport and safety.'
-      + 'Surveying the roads for potholes and humps and have them uploaded to the map ,'
+      'A device to detect Road humps and potholes. '
+      + 'Implementing along with automobiles for improving transport and safety. '
+      + 'Surveying the roads for potholes and humps and have them uploaded to the map, '
       + 'Alert the driver of irregular humps and potholes.',
   },
   {
@@ -28,9 +28,8 @@ const data = [
     date: '2019-08-28',
     desc:
       'Built a Computer Graphics model illustrating Data Communication. '
-      + 'It illustrates concept of data communication over the internet'
-      + 'Built Using OpenGL API and GLUT libraries.'
-      + 'It covers the gaps between public, goverment and contractor.',
+      + 'It illustrates concept of data communication over the internet. '
+      + 'Built Using OpenGL API and GLUT libraries.',
   },
   {
     title: 'Placement management system',
@@ -39,7 +38,7 @@ const data = [
     date: '2019-12-28',
     desc:
       'A web technology based project for placement and human resource department. '
-      + 'Involves managing, accessing and notifying users of upcoming events.',
+      + 'It involves managing, accessing and notifying users of upcoming events.',
   },
   {
     title: 'Hostel Management System',
@@ -47,9 +46,9 @@ const data = [
     image: '/images/projects/hostel.jpg',
     date: '2018-04-28',
     desc:
-      'A Hostel management system using web technologies.'
-      + 'A user friendly web portal students and hostel managers.'
-      + 'includes all the necessary funtions required for a hostel maintainance.',
+      'A Hostel management system using web technologies. '
+      + 'A user friendly web portal students and hostel managers. '
+      + 'It includes all the necessary funtions required for a hostel maintainance.',
   },
 ];
 
